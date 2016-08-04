@@ -1,0 +1,36 @@
+_repo: The-Door-in-the-Wall-and-Other-Stories_456
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: Widely recognized as one of the key figures in the development of the
+  science fiction and fantasy genres, H.G. Wells was a prolific writer who produced
+  hundreds of short and long works in these styles. The tales collected in The Door
+  in the Wall and Other Stories span Wells' early career and offer a satisfying cross-section
+  of his work.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '1996-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '456'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction, English'
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction, English'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The door in the wall -- The star -- A dream of Armageddon -- The
+  cone -- A moonlight fable -- The diamond maker -- The Lord of the Dynamos -- The
+  Country of the Blind.
+title: The Door in the Wall, and Other Stories
+url: http://www.gutenberg.org/ebooks/456
